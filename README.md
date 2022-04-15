@@ -1,4 +1,8 @@
-# Luke's dmenu
+# Chris's dmenu
+
+Taken from Luke Smith
+
+## Luke Smith
 
 Extra stuff added to vanilla dmenu:
 
